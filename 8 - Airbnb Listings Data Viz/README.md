@@ -1,0 +1,1 @@
+In this project I used a [database from Kaggle](https://www.kaggle.com/alexanderfreberg/airbnb-listings-2016-dataset) which contains a dataset of 2016 Airbnb public listings in Seattle to create a Data Visualization Dashboard with Tableau.
